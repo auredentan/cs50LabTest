@@ -2,6 +2,7 @@ lab50:
   window:
     - readme
     - browser
-    - terminal 
+    - terminal
+    - editor
   files:
     - !include hello_world.py

@@ -5,4 +5,4 @@ lab50:
     - terminal
     - editor
   files:
-    - !include hello_world.py
+    - !include app.py
